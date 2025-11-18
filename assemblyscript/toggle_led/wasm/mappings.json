@@ -1,5 +1,5 @@
 {
-  "wasm": "/Users/crojcas/Documents/projects/app_examples/assemblyscript/toggle_led/wasm/toggle_led.wasm",
+  "wasm": "toggle_led/wasm/toggle_led.wasm",
   "sources": [
     "toggle_led/src/arduino.ts",
     "toggle_led/src/toggle_led.ts"
