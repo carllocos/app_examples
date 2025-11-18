@@ -40,4 +40,5 @@ A list of all supported primitives can be found in [arduino.cpp](https://github.
 
 ## Deploy An Application
 
-For a tutorial on how to 
+For a tutorial on how to deploy an application to an MCU see `deploy_wasm.md`
+
