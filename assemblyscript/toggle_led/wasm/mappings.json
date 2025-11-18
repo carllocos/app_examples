@@ -1,0 +1,261 @@
+{
+  "wasm": "/Users/crojcas/Documents/projects/app_examples/assemblyscript/toggle_led/wasm/toggle_led.wasm",
+  "sources": [
+    "toggle_led/src/arduino.ts",
+    "toggle_led/src/toggle_led.ts"
+  ],
+  "mappings": [
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 312,
+      "linenr": 7,
+      "colnr": 19,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 314,
+      "linenr": 7,
+      "colnr": 24,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 316,
+      "linenr": 7,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 321,
+      "linenr": 11,
+      "colnr": 24,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 323,
+      "linenr": 11,
+      "colnr": 29,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 325,
+      "linenr": 11,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 330,
+      "linenr": 28,
+      "colnr": 12,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 332,
+      "linenr": 28,
+      "colnr": 11,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 333,
+      "linenr": 28,
+      "colnr": 3,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 335,
+      "linenr": 29,
+      "colnr": 16,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 337,
+      "linenr": 29,
+      "colnr": 21,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 341,
+      "linenr": 29,
+      "colnr": 29,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 344,
+      "linenr": 29,
+      "colnr": 38,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 347,
+      "linenr": 29,
+      "colnr": 3,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 361,
+      "linenr": 15,
+      "colnr": 16,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 363,
+      "linenr": 15,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 368,
+      "linenr": 33,
+      "colnr": 3,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 370,
+      "linenr": 34,
+      "colnr": 3,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 374,
+      "linenr": 34,
+      "colnr": 10,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 378,
+      "linenr": 35,
+      "colnr": 11,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 380,
+      "linenr": 35,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 436,
+      "linenr": 20,
+      "colnr": 25,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 438,
+      "linenr": 20,
+      "colnr": 30,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 451,
+      "linenr": 20,
+      "colnr": 30,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 453,
+      "linenr": 20,
+      "colnr": 40,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/arduino.ts",
+      "address": 455,
+      "linenr": 20,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 485,
+      "linenr": 21,
+      "colnr": 11,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 487,
+      "linenr": 21,
+      "colnr": 16,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 489,
+      "linenr": 21,
+      "colnr": 3,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 491,
+      "linenr": 22,
+      "colnr": 11,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 493,
+      "linenr": 22,
+      "colnr": 20,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 495,
+      "linenr": 22,
+      "colnr": 3,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 497,
+      "linenr": 23,
+      "colnr": 15,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 499,
+      "linenr": 23,
+      "colnr": 24,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 501,
+      "linenr": 23,
+      "colnr": 33,
+      "name": ""
+    },
+    {
+      "source": "toggle_led/src/toggle_led.ts",
+      "address": 514,
+      "linenr": 23,
+      "colnr": 3,
+      "name": ""
+    }
+  ]
+}
