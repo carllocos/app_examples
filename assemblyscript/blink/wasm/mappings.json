@@ -1,0 +1,170 @@
+{
+  "wasm": "blink/wasm/blink.wasm",
+  "sources": [
+    "blink/src/arduino.ts",
+    "blink/src/blink.ts"
+  ],
+  "mappings": [
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 201,
+      "linenr": 7,
+      "colnr": 19,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 203,
+      "linenr": 7,
+      "colnr": 24,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 205,
+      "linenr": 7,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 210,
+      "linenr": 11,
+      "colnr": 24,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 212,
+      "linenr": 11,
+      "colnr": 29,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 214,
+      "linenr": 11,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 219,
+      "linenr": 15,
+      "colnr": 16,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.ts",
+      "address": 221,
+      "linenr": 15,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 226,
+      "linenr": 16,
+      "colnr": 13,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 228,
+      "linenr": 16,
+      "colnr": 18,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 230,
+      "linenr": 16,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 232,
+      "linenr": 18,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 236,
+      "linenr": 18,
+      "colnr": 12,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 240,
+      "linenr": 19,
+      "colnr": 22,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 242,
+      "linenr": 19,
+      "colnr": 27,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 244,
+      "linenr": 19,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 246,
+      "linenr": 20,
+      "colnr": 15,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 249,
+      "linenr": 20,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 251,
+      "linenr": 21,
+      "colnr": 22,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 253,
+      "linenr": 21,
+      "colnr": 27,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 255,
+      "linenr": 21,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 257,
+      "linenr": 22,
+      "colnr": 15,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.ts",
+      "address": 260,
+      "linenr": 22,
+      "colnr": 9,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "blink",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build:debug && npm run build:release",
+    "build:debug": "node_modules/assemblyscript/bin/asc.js src/blink.ts -o wasm/blink.wasm --sourceMap --debug",
+    "build:release": "node_modules/assemblyscript/bin/asc.js src/blink.ts -o wasm/blink.release.wasm"
+  },
+  "dependencies": {
+    "assemblyscript": "^0.27.25"
+  }
+}
