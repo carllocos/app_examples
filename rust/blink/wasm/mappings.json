@@ -1,0 +1,583 @@
+{
+  "wasm": "blink/wasm/blink.wasm",
+  "sources": [
+    "blink/src/arduino.rs",
+    "blink/src/blink.rs"
+  ],
+  "mappings": [
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 178,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 184,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 186,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 187,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 189,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 191,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 197,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 199,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 201,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 204,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 206,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 208,
+      "linenr": 34,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 211,
+      "linenr": 36,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 213,
+      "linenr": 36,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 216,
+      "linenr": 36,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 217,
+      "linenr": 36,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 219,
+      "linenr": 36,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 222,
+      "linenr": 36,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 223,
+      "linenr": 36,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 229,
+      "linenr": 38,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 231,
+      "linenr": 38,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 233,
+      "linenr": 38,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 234,
+      "linenr": 38,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 240,
+      "linenr": 38,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 241,
+      "linenr": 38,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 246,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 252,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 254,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 255,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 257,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 259,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 265,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 267,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 269,
+      "linenr": 24,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 272,
+      "linenr": 26,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 274,
+      "linenr": 26,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 280,
+      "linenr": 28,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 282,
+      "linenr": 28,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 284,
+      "linenr": 28,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 285,
+      "linenr": 28,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 291,
+      "linenr": 28,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 292,
+      "linenr": 28,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 297,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 303,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 305,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 306,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 308,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 310,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 316,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 318,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 320,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 323,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 325,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 327,
+      "linenr": 40,
+      "colnr": 0,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 330,
+      "linenr": 42,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 332,
+      "linenr": 42,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 335,
+      "linenr": 42,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 336,
+      "linenr": 42,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 338,
+      "linenr": 42,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 341,
+      "linenr": 42,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 342,
+      "linenr": 42,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 348,
+      "linenr": 44,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 350,
+      "linenr": 44,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 352,
+      "linenr": 44,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 353,
+      "linenr": 44,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 359,
+      "linenr": 44,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/arduino.rs",
+      "address": 360,
+      "linenr": 44,
+      "colnr": 2,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 363,
+      "linenr": 18,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 365,
+      "linenr": 18,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 367,
+      "linenr": 18,
+      "colnr": 5,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 373,
+      "linenr": 21,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 375,
+      "linenr": 21,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 377,
+      "linenr": 21,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 379,
+      "linenr": 21,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 385,
+      "linenr": 22,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 388,
+      "linenr": 22,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 394,
+      "linenr": 23,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 396,
+      "linenr": 23,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 398,
+      "linenr": 23,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 404,
+      "linenr": 24,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 407,
+      "linenr": 24,
+      "colnr": 9,
+      "name": ""
+    },
+    {
+      "source": "blink/src/blink.rs",
+      "address": 413,
+      "linenr": 24,
+      "colnr": 9,
+      "name": ""
+    }
+  ]
+}
