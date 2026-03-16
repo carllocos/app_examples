@@ -1,0 +1,350 @@
+{
+  "wasm": "/Users/crojcas/Documents/projects/wasmito/app_examples/assemblyscript/toggle_led_deactivate/wasm/toggle_led_deactivate.wasm",
+  "sources": [
+    "toggle_led_deactivate/~lib/rt/common.ts",
+    "toggle_led_deactivate/~lib/rt/tlsf.ts",
+    "toggle_led_deactivate/~lib/shared/typeinfo.ts",
+    "toggle_led_deactivate/~lib/rt/itcms.ts",
+    "toggle_led_deactivate/src/arduino.ts",
+    "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+    "toggle_led_deactivate/~lib/function.ts"
+  ],
+  "mappings": [
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 345,
+      "linenr": 9,
+      "colnr": 18,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 347,
+      "linenr": 9,
+      "colnr": 23,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 349,
+      "linenr": 9,
+      "colnr": 4,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 354,
+      "linenr": 13,
+      "colnr": 23,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 356,
+      "linenr": 13,
+      "colnr": 28,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 358,
+      "linenr": 13,
+      "colnr": 4,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 363,
+      "linenr": 32,
+      "colnr": 11,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 365,
+      "linenr": 32,
+      "colnr": 10,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 366,
+      "linenr": 32,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 368,
+      "linenr": 33,
+      "colnr": 15,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 370,
+      "linenr": 33,
+      "colnr": 20,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 374,
+      "linenr": 33,
+      "colnr": 28,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 377,
+      "linenr": 33,
+      "colnr": 37,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 380,
+      "linenr": 33,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/~lib/function.ts",
+      "address": 385,
+      "linenr": 9,
+      "colnr": 21,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/~lib/function.ts",
+      "address": 387,
+      "linenr": 9,
+      "colnr": 11,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/~lib/function.ts",
+      "address": 390,
+      "linenr": 9,
+      "colnr": 4,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 394,
+      "linenr": 31,
+      "colnr": 4,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 399,
+      "linenr": 38,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 404,
+      "linenr": 17,
+      "colnr": 15,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 406,
+      "linenr": 17,
+      "colnr": 4,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 411,
+      "linenr": 42,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 413,
+      "linenr": 43,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 417,
+      "linenr": 43,
+      "colnr": 9,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 421,
+      "linenr": 44,
+      "colnr": 10,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 423,
+      "linenr": 44,
+      "colnr": 4,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 479,
+      "linenr": 22,
+      "colnr": 24,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 481,
+      "linenr": 22,
+      "colnr": 29,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 494,
+      "linenr": 22,
+      "colnr": 29,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 496,
+      "linenr": 22,
+      "colnr": 39,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/arduino.ts",
+      "address": 498,
+      "linenr": 22,
+      "colnr": 4,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 528,
+      "linenr": 23,
+      "colnr": 10,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 530,
+      "linenr": 23,
+      "colnr": 15,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 532,
+      "linenr": 23,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 534,
+      "linenr": 24,
+      "colnr": 10,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 536,
+      "linenr": 24,
+      "colnr": 19,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 538,
+      "linenr": 24,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 540,
+      "linenr": 25,
+      "colnr": 14,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 542,
+      "linenr": 25,
+      "colnr": 23,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 544,
+      "linenr": 25,
+      "colnr": 32,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 557,
+      "linenr": 25,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 559,
+      "linenr": 26,
+      "colnr": 10,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 561,
+      "linenr": 26,
+      "colnr": 20,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 563,
+      "linenr": 26,
+      "colnr": 2,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 565,
+      "linenr": 27,
+      "colnr": 14,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 567,
+      "linenr": 27,
+      "colnr": 24,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 569,
+      "linenr": 27,
+      "colnr": 33,
+      "name": "null"
+    },
+    {
+      "source": "toggle_led_deactivate/src/toggle_led_deactivate.ts",
+      "address": 583,
+      "linenr": 27,
+      "colnr": 2,
+      "name": "null"
+    }
+  ]
+}
